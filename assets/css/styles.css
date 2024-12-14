@@ -309,7 +309,7 @@ footer {
 
 /* Mobile Version Bigger Phones */
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 720px) {
   nav {
     padding: 1.5rem 1rem;
     width: 116%;
