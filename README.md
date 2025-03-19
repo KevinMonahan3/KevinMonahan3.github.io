@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-![jane-doe](site-preview.png)
+![site-preview](site-preview.png)
 
 This is a quick readMe explaining the features used in my developer portfolio and how I created it.
 
