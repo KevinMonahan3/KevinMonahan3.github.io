@@ -2,6 +2,8 @@
 
 ![jane-doe](site-preview.png)
 
+This is a quick readMe explaining the features used in my developer portfolio and how I created it.
+
 ## Author
 
 [@KevinMonahan](https://www.instagram.com/kevin.monahan3)
